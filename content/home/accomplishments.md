@@ -26,7 +26,7 @@ date_format: Jan 2006
 item:
   - certificate_url: insert drive link here
     date_end:
-    date_start: '2016-08-015'
+    date_start: '2016-08-15'
     description: Won the inter university Tech expert technical feature defining contest.
     organization: Viveknand Education Society Insitute of Technoloy, University of Mumbai, Mumbai
     organization_url: https://vesit.ves.ac.in/
