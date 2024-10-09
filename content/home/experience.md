@@ -45,7 +45,7 @@ experience:
     company_url: 'https://www.sap.com/india/about/labs-india.html'
     location: Bangalore
     date_start: '2021-10-01'
-    date_end: '2022-04-31'
+    date_end: '2022-04-30'
     description: ● Worked with the Sap Labs AI-Foundation team working on SAP's cutting edge ML and AI, cloud-based platform
       ● Successfully built and streamlined numerous number of APIs and microservices that are used by the cloud platform
       ●  Designed and implemented MlOps solutions and streamlined the whole pipeline to automate processes
