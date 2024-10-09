@@ -1,5 +1,5 @@
 ---
-title: 'Food Aayush: Identification of Food and Oils Quality'
+title: 'Ear Biometrics: One More Step Towards Social Distancing'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
