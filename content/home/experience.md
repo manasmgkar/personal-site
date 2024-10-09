@@ -49,7 +49,6 @@ experience:
     description: ● Worked with the Sap Labs AI-Foundation team working on SAP's cutting edge ML and AI, cloud-based platform
       ● Successfully built and streamlined numerous number of APIs and microservices that are used by the cloud platform
       ●  Designed and implemented MlOps solutions and streamlined the whole pipeline to automate processes
-      ● Stack: Python, Javascript, OpenAPI, Kubernetes
 
   - title: Software Engineering Intern
     company: Google Summer of Code (GSOC)
@@ -63,7 +62,6 @@ experience:
       ● CRIT is used for serializing/deserializing frozen container state images and allowing editing, modifications and preparing
       them for transportation over the network as per the protocol buffer definitions
       ● Worked under the mentorship of a Principal Software Engineer at Red Hat to accomplish the project
-      ● Stack: Golang, Python, Protocol-Buffers
 
   - title: Software Engineering Summer Intern
     company: Google Summer of Code (GOSC)
@@ -82,7 +80,6 @@ experience:
       streamlining the whole data process and enabling quick voting for new feature changes
       ● Actively supported the senior management team in designing a new feature change process and other program activities
       to enable easier entry-level points for newcomers to the open source project
-      ● Stack: Python, Technical Program Management, Technical Product Development
 
 design:
   columns: '2'
