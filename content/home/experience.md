@@ -39,8 +39,6 @@ experience:
       ● Drove cross-functional efforts across the tech, security and product teams to build and optimize Cloud Native
       Solutions for High-Performing Hypervisor stacks.
       ● Spearheaded initiatives for cost and performance-to-cost ratio
-      Stack: Python, Golang, Kubernetes, Product Management, Program Management, Technical Program Management
-      Kubernetes Derivatives wrappers and Systems, Esxi, Vshpere, Hypervisors
 
   - title: Software Engineering Intern
     company: Sap (Labs - Research Divison)
