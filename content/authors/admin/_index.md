@@ -46,13 +46,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:manasmangaonkar@gmail.edu
+    link: mailto:manasmangaonkar@gmail.com
 #  - icon: twitter
 #    icon_pack: fab
 #    link: 
 #  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
 #    icon_pack: ai
-#    link: https://scholar.google.com/citations?user=YogRiCkAAAAJ&hl=en&oi=ao
+#    link:
   - icon: github
     icon_pack: fab
     link: https://github.com/manasmgkar
