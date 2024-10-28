@@ -72,7 +72,7 @@ highlight_name: true
 
 
 <p style='text-align: justify;'>
-Hello! I'm Manas, a Software Engineer Looking to Transtion to Product Management with a keen interest in Data Intensive Software Products, Hybrid and Pirvate Cloud Platform Products. Some of my other interests are also in the hardware hacking arena, security,data privacy and Diy's electronics(i built a home cockpit for video games recently). 
+Hello! I'm Manas, a Software Engineer Looking to Transition to Product Management roles with a keen interest in Data Intensive Software Products that aim to improve human lives, Hybrid and Pirvate Cloud Platform Products and Everything SaaS,PaaS,IaaS. Some of my other interests are also in the hardware hacking arena, security,data privacy and Diy's electronics(i built a home cockpit for video games recently). 
 
 <p style='text-align: justify;'>
 Currently i am a Software engineering working at SAP Labs India(SAP's research divison) with the Soverign and private cloud team. My professional journey started with open source, i was a contributor in Fedora(A redhat project) and then during the summer of 2019 and 2020 i got selected for the Highly Competitive Google Summer of Code program to work as a paid summer intern at Fedora(in 2019) to build a Data cross syncronization platform from the Ground up and at Criu(in 2020) for Developing a serializing/de-searlizing container images and transportation algo.
